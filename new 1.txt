@@ -1,0 +1,6 @@
+
+https://cyberark.secservizi.sec.net/PasswordVault/
+	access with user/pass SEC.  put \ in front of user.  example \andrew_trobec
+	Search for server in top right with IP 10.16.52.84
+	Click on "copy password" icon to copy to clipboard
+	Access backend using root user and client of choice (putty)
